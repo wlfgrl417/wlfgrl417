@@ -1,5 +1,5 @@
 # wlfgrl417
-<img scr= "github-header-image (1).png">
+<img scr= "github-header-image (1).png" width=50px/>
 
 ## Gabriel de Oliveira Sebrão
 ### Ténico em Desenvolvimento de Sistemas SESI/SENAI <br> 2° Ano do Ensino Médio <br> 16 anos
