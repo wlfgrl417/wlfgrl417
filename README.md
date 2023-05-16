@@ -8,6 +8,6 @@
 
 ### Ferramentas
 <img src = "https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width = 50px/> <img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width = 50px/> <img src = "https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width = 50px/> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width = 50px/>
-
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=wlfgrl417&icon=0&color=5)](https://visitcount.itsvg.in)
